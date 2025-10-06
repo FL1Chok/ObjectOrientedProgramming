@@ -1,0 +1,14 @@
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/bin/Debug/net9.0/VendingMachine_lab1
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/bin/Debug/net9.0/VendingMachine_lab1.deps.json
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/bin/Debug/net9.0/VendingMachine_lab1.runtimeconfig.json
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/bin/Debug/net9.0/VendingMachine_lab1.dll
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/bin/Debug/net9.0/VendingMachine_lab1.pdb
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.AssemblyInfoInputs.cache
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.AssemblyInfo.cs
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.csproj.CoreCompileInputs.cache
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.dll
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/refint/VendingMachine_lab1.dll
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.pdb
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/VendingMachine_lab1.genruntimeconfig.cache
+/Users/ygenikto/RiderProjects/VendingMachine_lab1/VendingMachine_lab1/obj/Debug/net9.0/ref/VendingMachine_lab1.dll
